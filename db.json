@@ -10,5 +10,9 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "login": {
+    "success":1,
+    "token":"a5ff5d81eae8069a8b818eec38f1a006"
   }
 }
